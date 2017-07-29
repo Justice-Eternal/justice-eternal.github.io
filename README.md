@@ -9,6 +9,11 @@ Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
 
 移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
 
+
+![demo](http://upload-images.jianshu.io/upload_images/2141706-88ed58ef5dbe53b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![demo](http://upload-images.jianshu.io/upload_images/2141706-06504391d13c94c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 PC端网址：[lightmoon.pw](lightmoon.pw)
 
 曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
@@ -35,10 +40,10 @@ PC端网址：[lightmoon.pw](lightmoon.pw)
 
 ## 本Webapp的主要功能：
 
-1 利用github的谱库接口来进行谱子的搜索
-2 B站热门口琴（贴吧朋友）视频展示及播放
-3 大神录音以及吧众录音的展示
-4 骗新人入坑（将贴吧置顶帖中的教学贴全都放在了新手入门页面）
-5 交流平台，每个口琴谱的issue都是可以用github账号评论的，也就是说每个谱子下面可以交流吹奏经验，附上自己吹奏的录音链接或者视频链接。
-6 号召更多苦力来搬运谱曲。。。嗯。。。
-7 更多功能等你们发现~
+- 利用github的谱库接口来进行谱子的搜索
+- B站热门口琴（贴吧朋友）视频展示及播放
+- 大神录音以及吧众录音的展示
+- 骗新人入坑（将贴吧置顶帖中的教学贴全都放在了新手入门页面）
+- 交流平台，每个口琴谱的issue都是可以用github账号评论的，也就是说每个谱子下面可以交流吹奏经验，附上自己吹奏的录音链接或者视频链接。
+- 号召更多苦力来搬运谱曲。。。嗯。。。
+- 更多功能等你们发现~
