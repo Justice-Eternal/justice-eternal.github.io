@@ -14,7 +14,7 @@ Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
 
 ![demo](http://upload-images.jianshu.io/upload_images/2141706-06504391d13c94c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-PC端网址：[lightmoon.pw](lightmoon.pw)
+PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 
 曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
 
