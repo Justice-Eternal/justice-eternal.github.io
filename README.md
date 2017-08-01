@@ -39,6 +39,11 @@ PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 另外，如果对本站有什么建议也一定要在issue中提出来哦！要是能够PR那就再好不过了- -！
 
 
+## Contributors
+
+<a href="https://tieba.baidu.com/f?kw=justice_eternal&fr=index"><img src="http://upload-images.jianshu.io/upload_images/2141706-4bdf2f2289334639.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="66px" width="66px"></a>
+
+
 
 ## 版本日志
 
