@@ -41,6 +41,7 @@ PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 
 ## Contributors
 
+<a href="http://www.jianshu.com/u/d15860c8c592"><img src="http://upload-images.jianshu.io/upload_images/2141706-61866430b6007437.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="66px" width="66px"></a>
 <a href="https://tieba.baidu.com/f?kw=justice_eternal&fr=index"><img src="http://upload-images.jianshu.io/upload_images/2141706-4bdf2f2289334639.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="66px" width="66px"></a>
 
 
