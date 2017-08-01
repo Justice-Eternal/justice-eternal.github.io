@@ -73,5 +73,5 @@ PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 
 ## License
 
-AFNetworking is released under the MIT license. See LICENSE for details.
+Justice_Eternal is released under the MIT license. See LICENSE for details.
 
