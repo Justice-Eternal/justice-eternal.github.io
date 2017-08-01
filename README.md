@@ -71,5 +71,7 @@ PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 * 使用[api.imjad.cn](https://github.com/journey-ad/api.imjad.cn)的b站API
 * 引入[vue-aplayer播放器](http://aplayer.quq.cat/)
 
+## License
 
+AFNetworking is released under the MIT license. See LICENSE for details.
 
