@@ -13,6 +13,9 @@
 - 号召更多苦力来搬运谱曲。。。嗯。。。
 - 更多功能等你们发现~
 
+### 项目展示
+![image](https://github.com/Justice-Eternal/justice-eternal.github.io/blob/master/demo.gif)
+
 ## 网站说明
 
 Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
