@@ -20,7 +20,7 @@
 
 Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
 
-移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
+移动端网址：[http://jefun.top/](http://jefun.top/)
 
 ![demo6.png](http://upload-images.jianshu.io/upload_images/2141706-11ab2c7280c2a865.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![demo7.png](http://upload-images.jianshu.io/upload_images/2141706-9a8a0bb7f30f1ae2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
